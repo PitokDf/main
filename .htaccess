@@ -1,1 +1,1 @@
-add_header 'Access-Control-Allow-Origin' '*';
+Header set Access-Control-Allow-Origin "*"
